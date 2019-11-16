@@ -11,6 +11,6 @@ class EmailAddressParser
   end
 
   def parse
-
+    emails.join(",")
   end
 end #end of class
