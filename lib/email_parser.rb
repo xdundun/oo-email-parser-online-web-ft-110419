@@ -5,4 +5,6 @@
 
 class EmailAddressParser
 
+def parse
+end
 end #end of class
