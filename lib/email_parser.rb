@@ -5,4 +5,4 @@
 
 class EmailAddressParser
 
-end
+end #end of class
